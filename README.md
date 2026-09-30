@@ -1,6 +1,6 @@
 ## Hello there, I'm Flor 👋
 
-Flor Boldt, first-year Computer Science student at TCU, Class of 2030  
+Florencia Boldt, first-year Computer Science student at TCU, Class of 2030  
 https://www.linkedin.com/in/f-boldt/
 
 ---
